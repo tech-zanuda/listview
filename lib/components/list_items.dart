@@ -15,7 +15,11 @@ class ListItems extends StatelessWidget {
         decoration: const BoxDecoration(
             color: Colors.cyan,
             borderRadius: BorderRadius.all(Radius.circular(8))),
-        child: Center(child: Text('Элемент $nums')),
+        child: Center(
+            child: Text(
+          'Элемент $nums',
+          style: const TextStyle(color: Colors.white, fontSize: 24),
+        )),
       ),
     );
   }
