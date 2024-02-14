@@ -1,16 +1,4 @@
-# listview
+# Listview
+![image](https://github.com/tech-zanuda/listview/assets/145598465/46b96d32-7edb-4a10-a480-1829c2a09106)
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![image](https://github.com/tech-zanuda/listview/assets/145598465/143c28c6-50b0-4259-a79d-9da9a29b5060)
